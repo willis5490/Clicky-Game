@@ -1,0 +1,19 @@
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+}
+.footerPic{
+width: 40px;
+height: 40px;
+margin-left: 40px;
+}
+#copywrite{
+    text-align: center;
+    color: white;
+}
+#footies{
+    background-color: black
+}

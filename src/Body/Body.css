@@ -1,0 +1,27 @@
+.pCards{
+    padding-bottom: 10px;
+}
+.cardImage{
+width: 150px;
+height: 150px;
+border: solid;
+border-color: white;
+
+
+
+}
+.bodyback{
+    background: url('../images/1200px-MarvelLogo.svg.png') center;
+    background-size: 1300px 680px;
+ 
+}
+
+/* media query */
+@media only screen and (max-width: 480px) {
+    .bodyback{
+        background: url('../images/1200px-MarvelLogo.svg.png') center;
+        background-size: 350px 1400px;
+     
+    }
+
+}

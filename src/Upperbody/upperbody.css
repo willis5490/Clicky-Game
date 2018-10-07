@@ -1,0 +1,22 @@
+.marvelBackround{
+    width: 100%;
+    height: 600px;
+    background: url('../images/marvel-universe1.png');
+    background-size:cover;
+}
+
+.uppertext{
+    text-align: center;
+    color: white;
+    font: bold;
+    background-color: rgb(53, 135, 250);
+}
+html{
+    background-color: black;
+}
+h4{
+    color: black
+}
+#clickM{
+    font-size: 75px;
+}
