@@ -109,7 +109,7 @@ class App extends Component  {
       
       <div className='uk-container bodyback'>
       <div className="uk-animation-scale-up">
-        <ul className="uk-grid-large uk-child-width-1-2 uk-child-width-1-4@s uk-text-center uk-grid uk-flex-center" uk-sortable="handle: .uk-card" >
+        <ul className="uk-grid-large uk-child-width-1-2 uk-child-width-1-4@s uk-text-center uk-grid uk-flex-center"  >
         {this.state.characters.map(character => (
           <CharacterCard 
               id={character.id}

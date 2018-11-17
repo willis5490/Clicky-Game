@@ -10,7 +10,7 @@
 @media only screen and (max-width: 480px) {
     
     .headerFont{
-        font-size: 10px;
+        font-size: 9px;
     }
     #mediaQueryMove{
         margin-left: 15px;
