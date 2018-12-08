@@ -18,7 +18,7 @@ class Header extends Component {
       <nav id='headies' className="uk-navbar-container uk-navbar" >
     <div className="uk-navbar-center">
         <ul className="uk-navbar-nav">
-          <h4 id='mediaQueryMove' className='headerFont'>Click on any image below to begin!</h4>
+          <h4 id='mediaQueryMove' className='headerFont uk-visible@m'>Click on any image below to begin!</h4>
         </ul>
     </div>
     <div className="uk-navbar-left">

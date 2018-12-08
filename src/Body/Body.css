@@ -23,5 +23,12 @@ border-color: white;
         background-size: 350px 1400px;
      
     }
+    .cardImage{
+        height: 50px;
+        width: 50px;
+    }
+    .uk-card-body {
+        padding: 10px 10px !important;
+    }
 
 }

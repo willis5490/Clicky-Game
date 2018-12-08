@@ -4,13 +4,15 @@
 .headerFont {
     color: white;
     background-color:  rgb(53, 135, 250);
+    margin-right: 20px;
 }
 
 /* media query */
 @media only screen and (max-width: 480px) {
     
     .headerFont{
-        font-size: 9px;
+        font-size: 12px;
+        margin-right: 10px;
     }
     #mediaQueryMove{
         margin-left: 15px;
